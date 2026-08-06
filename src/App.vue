@@ -308,7 +308,7 @@ h1 {
   border: 0;
   cursor: pointer;
 }
-@media (max-width: 1080px) {
+@media (max-width: 1200px) {
   .product-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 24px;

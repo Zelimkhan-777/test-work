@@ -143,13 +143,12 @@ export default {
     width: 220px;
   }
 }
-@media (max-width: 780px) {
+@media (max-width: 960px) {
   .site-header,
   .header-inner {
     min-height: 76px;
   }
   .header-inner {
-    flex-wrap: wrap;
     padding: 14px 0;
   }
   .menu-button {
@@ -193,8 +192,8 @@ export default {
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
   }
   .search {
-    order: 3;
-    flex: 1 0 100%;
+    flex: 1;
+    max-width: 560px;
     min-width: 0;
     height: 44px;
   }
@@ -204,6 +203,16 @@ export default {
   }
   .search button {
     width: 82px;
+  }
+}
+@media (max-width: 780px) {
+  .header-inner {
+    flex-wrap: wrap;
+  }
+  .search {
+    order: 3;
+    flex: 1 0 100%;
+    max-width: none;
   }
 }
 </style>

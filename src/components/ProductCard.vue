@@ -151,7 +151,7 @@ export default {
   width: 100%;
   margin-left: 0;
 }
-@media (max-width: 1080px) {
+@media (max-width: 1200px) {
   .product-image {
     height: 230px;
   }

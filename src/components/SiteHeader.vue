@@ -10,6 +10,7 @@
         <a href="#delivery" @click="closeMenu">Доставка</a>
         <a href="#payment" @click="closeMenu">Оплата</a>
         <a href="#contacts" @click="closeMenu">Контакты</a>
+        <a href="#about" @click="closeMenu">О компании</a>
       </nav>
       <form class="search" role="search" @submit.prevent>
         <label class="sr-only" for="art-search">Поиск по названию картины</label>

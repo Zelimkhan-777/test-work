@@ -1,4 +1,4 @@
-#profile-title: METEORA TEST NO VPN
+#profile-title: Meteora до 17.11.2026 MSK
 #subscription-userinfo: expire=1794902400
 #support-url: https://t.me/MeteoraVPN_bot
 #hide-url: 1

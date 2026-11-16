@@ -1,6 +1,7 @@
 #profile-title: METEORA EXPIRED NO VPN
 #subscription-userinfo: expire=946684800
 #support-url: https://t.me/MeteoraVPN_bot
+#profile-web-page-url: https://t.me/MeteoraVPN_bot
 #announce: base64:0JTQvtGB0YLRg9C/INC30LDQutC+0L3Rh9C40LvRgdGPLiDQntGC0LrRgNC+0LnRgtC1INCx0L7RgtCwINC00LvRjyDQv9GA0L7QtNC70LXQvdC40Y8u
 #announce-url: https://t.me/MeteoraVPN_bot
 #sub-expire: 1

@@ -1,0 +1,7 @@
+#profile-title: METEORA TEST NO VPN
+#subscription-userinfo: expire=1794902400
+#support-url: https://t.me/MeteoraVPN_bot
+#sub-expire: 1
+#sub-expire-button-link: https://t.me/MeteoraVPN_bot
+#hide-url: 1
+vless://00000000-0000-4000-8000-000000000000@192.0.2.1:443?encryption=none&security=tls&type=tcp&sni=example.invalid#NO-VPN

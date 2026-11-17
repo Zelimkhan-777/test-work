@@ -3,6 +3,6 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=1797494400
 #support-url: https://t.me/MeteoraVPN_bot
 #profile-web-page-url: https://t.me/MeteoraVPN_bot
-#announce: base64:4pyoINCU0L7RgdGC0YPQvyDQtNC+IDE3LjEyLjIwMjYsIDExOjAwINCc0KHQmi4g0J/RgNC+0LTQu9C10L3QuNC1INC4INC/0L7QvNC+0YnRjDogQE1ldGVvcmFWUE5fYm90
+#announce: base64:8J+agCDQlNC+0YHRgtGD0L8g0LTQviAxNy4xMi4yMDI2LCAxMTowMCDQnNCh0JouINCf0YDQvtC00LvQtdC90LjQtSDQuCDQv9C+0LzQvtGJ0Yw6IEBNZXRlb3JhVlBOX2JvdA==
 #announce-url: https://t.me/MeteoraVPN_bot
 vless://00000000-0000-4000-8000-000000000000@192.0.2.1:443?encryption=none&security=tls&type=tcp&sni=example.invalid#METEORA-INCY-RENEWED-NO-VPN

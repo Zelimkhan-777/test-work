@@ -1,0 +1,8 @@
+#profile-title: METEORA WINDOWS TEST
+#profile-update-interval: 1
+#subscription-userinfo: upload=1234; download=5678; total=1073741824; expire=1796025600
+#support-url: https://t.me/MeteoraVPN_bot
+#profile-web-page-url: https://t.me/MeteoraVPN_bot
+#announce: base64:0JTQvtGB0YLRg9C/INC00L4gMzAuMTEuMjAyNiAxMTowMCDQnNCh0Jo=
+#announce-url: https://t.me/MeteoraVPN_bot
+vless://00000000-0000-4000-8000-000000000000@192.0.2.1:443?encryption=none&security=tls&type=tcp&sni=example.invalid#NO-VPN-WINDOWS-TRAFFIC-TEST

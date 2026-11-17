@@ -1,0 +1,13 @@
+#profile-title: METEORA WINDOWS TEST
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=0; expire=1793491200
+#support-url: https://t.me/MeteoraVPN_bot
+#profile-web-page-url: https://t.me/MeteoraVPN_bot
+#announce: base64:0JTQvtGB0YLRg9C/INC30LDQutC+0L3Rh9C40LvRgdGPLiDQn9GA0L7QtNC70LjRgtC1INCyIEBNZXRlb3JhVlBOX2JvdA==
+#announce-url: https://t.me/MeteoraVPN_bot
+#sub-expire: 1
+#sub-expire-button-link: https://t.me/MeteoraVPN_bot
+#sub-info-text: Доступ закончился. Откройте бота для продления.
+#sub-info-button-text: Продлить
+#sub-info-button-link: https://t.me/MeteoraVPN_bot
+vless://00000000-0000-4000-8000-000000000000@192.0.2.1:443?encryption=none&security=tls&type=tcp&sni=example.invalid#%D0%9F%D1%80%D0%BE%D0%B4%D0%BB%D0%B8%D1%82%D1%8C%3A%20%40MeteoraVPN_bot?serverDescription=dC5tZS9NZXRlb3JhVlBOX2JvdA==
